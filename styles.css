@@ -16,7 +16,19 @@
 	margin-top:10px;
 	float:right; 
 	font-style:italic;
+    
 }
-.margin{
-	margin:20px 0px; 
+
+.subContainers2{
+	 margin-top:10px;
+	width:50%;
+	background-color:white; 
+    margin:auto auto; 
+	padding:20px
+ }
+.subContainers2 span {
+	margin-top:10px;
+	float:right; 
+	font-style:italic;
+    
 }
